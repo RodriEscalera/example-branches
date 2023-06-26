@@ -1,3 +1,3 @@
 # example-branches
 
-/ Esto lo escribí en la main
+/ Esto lo escribí en la rama develop
