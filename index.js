@@ -1,10 +1,17 @@
-const hola = "Beto";
-const mutearMarYJu = () => {
-  console.log("Quedaron muteadas >:)");
+const listaDeLlegadosTarde = ["Seba", "Facu", "Benja", "Fabri"];
+
+const loguearWachos = (lista) => {
+  lista.forEach((item) => {
+    console.log(item);
+  });
 };
-const func2 = () => {
-  console.log("Quedaron muteadas >:)");
+const loguearWachos2 = (lista) => {
+  lista.forEach((item) => {
+    console.log(item);
+  });
 };
-const func3 = () => {
-  console.log("Quedaron muteadas >:)");
+const loguearWachos3 = (lista) => {
+  lista.forEach((item) => {
+    console.log(item);
+  });
 };
